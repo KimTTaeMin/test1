@@ -27,6 +27,6 @@ Type "copyright", "credits" or "license()" for more information.
  		time.sleep(1)  
  		arduino.close() 
  
- time.sleep(2) 
+ time.sleep(1) 
  
  onOffFunction() 
